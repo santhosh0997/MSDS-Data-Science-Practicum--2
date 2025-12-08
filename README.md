@@ -39,3 +39,12 @@ With the virtual environment activated:
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## Run the Streamlit Dashboard
+
+Once the environment is active and all dependencies are installed, you can launch the application.
+
+```bash
+streamlit run dashboard.py

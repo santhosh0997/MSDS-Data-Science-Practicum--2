@@ -18,6 +18,10 @@ A `requirements.txt` file is included for easy environment setup.
 
 Make **"agro-climatic-forecasting"** as your current working directory.
 
+```bash
+cd agro-climatic-forecasting
+```
+
 To avoid package conflicts, create a **virtual environment**.
 
 ### macOS / Linux

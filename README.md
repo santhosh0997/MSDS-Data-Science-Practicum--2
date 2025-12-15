@@ -54,13 +54,13 @@ My analysis revealed several important trends:
 
 <!-- Placeholder for EDA visualizations -->
 **Top 10 Crops by Data Volume**
-`![Top 10 Crops](plots/top_crops_plot.png)`
+![Top 10 Crops](plots/top_crops_plot.png)
 
 **Smoothed Yield Trends for Major Crops (3-Year Rolling Avg)**
-`![Yield Trends](plots/yield_trends_plot.png)`
+![Yield Trends](plots/yield_trends_plot.png)
 
 **Global Consumption Trends**
-`![Consumption Trends](plots/consumption_trends_plot.png)`
+![Consumption Trends](plots/consumption_trends_plot.png)
 
 ---
 
@@ -91,10 +91,10 @@ The **Random Forest** model consistently outperformed the others, achieving the 
 
 <!-- Placeholder for Model Comparison Bar Charts -->
 **Overall Model Performance Comparison**
-`![Overall Performance](plots/overall_performance_plot.png)`
+![Overall Performance](plots/overall_performance_plot.png)
 
 **R² Score by Crop Category**
-`![R2 by Category](plots/r2_by_category_plot.png)`
+![R2 by Category](plots/r2_by_category_plot.png)
 
 ---
 
@@ -104,7 +104,7 @@ To understand what drives the model's predictions, I used SHAP (SHapley Additive
 
 <!-- Placeholder for SHAP Summary Plots -->
 **SHAP Feature Importance (Bar Plot)**
-`![SHAP Bar Plot](plots/shap_bar_plot.png)`
+![SHAP Bar Plot](plots/shap_bar_plot.png)
 
 ---
 
@@ -120,7 +120,7 @@ The final output is an interactive dashboard built with Streamlit. It allows use
 
 <!-- Placeholder for Dashboard Screenshot -->
 **Dashboard Preview**
-`![Dashboard Screenshot](plots/dashboard_screenshot.png)`
+![Dashboard Screenshot](plots/dashboard_screenshot.png)
 
 ---
 

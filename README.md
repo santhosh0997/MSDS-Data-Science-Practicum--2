@@ -2,6 +2,8 @@
 
 This repository documents my complete workflow for a comprehensive **crop yield forecasting project**. The goal was to build a robust machine learning model capable of predicting agricultural yields by integrating diverse global datasets. The project spans from data acquisition and extensive preprocessing to advanced model training, hyperparameter tuning, and final deployment in an interactive web application.
 
+This project was undertaken to address the critical need for accurate crop yield forecasting in the face of global challenges such as climate change, population growth, and fluctuating economic conditions. By integrating diverse datasets, including agricultural inputs, climatic factors, and economic indicators, the goal was to create a predictive model that could help farmers, policymakers, and agricultural stakeholders make informed decisions. The use of machine learning—particularly the Random Forest Regressor—enabled the capture of complex, non-linear relationships between variables, delivering highly accurate predictions. The interactive dashboard makes this knowledge accessible to users, facilitating real-time insights into crop performance and enabling better planning for future agricultural outcomes.
+
 ---
 
 ## Project Summary

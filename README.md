@@ -126,9 +126,10 @@ The final output is an interactive dashboard built with Streamlit. It allows use
 
 ## Setting Up the Environment
 
-Make **"agro-climatic-forecasting"** as your current working directory.
 
 ```bash
+https://github.com/santhosh0997/MSDS-Data-Science-Practicum--2.git
+# Make "agro-climatic-forecasting" as your current working directory.
 cd agro-climatic-forecasting
 ```
 
